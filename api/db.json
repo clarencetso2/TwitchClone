@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream 1",
+      "description": "description for mystream1",
+      "id": 1
+    },
+    {
+      "title": "My Stream 2",
+      "description": "description for mystream2",
+      "id": 2
+    },
+    {
+      "title": "Programmatic navigation change with patch",
+      "description": "this should being be back to root page after submiting change with patch",
+      "userId": "102958678346357517264",
+      "id": 5
+    },
+    {
+      "title": "Stream Form Reuse changed",
+      "description": "reusing some code changed fuck",
+      "id": 6
+    }
+  ]
+}
